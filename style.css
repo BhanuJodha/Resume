@@ -7,6 +7,11 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .center {
     text-align: center;
 }
@@ -204,22 +209,22 @@ section:nth-child(2n) {
     background-color: blueviolet;
 } */
 #bar3 {
-    width: 80%;
+    width: 90%;
     background-color: darkslateblue;
 }
 
 #bar4 {
-    width: 90%;
+    width: 55%;
     background-color: orangered;
 }
 
 #bar5 {
-    width: 80%;
+    width: 75%;
     background-color: blueviolet;
 }
 
 #bar6 {
-    width: 45%;
+    width: 75%;
     background-color: var(--theme);
 }
 
